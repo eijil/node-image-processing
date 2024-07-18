@@ -1,0 +1,10 @@
+{
+  "extends": "./node_modules/mwts/",
+  "ignorePatterns": ["node_modules", "dist", "test", "jest.config.js", "typings"],
+  "rules": {
+    "no-unused-vars": ["warn", { "vars": "all", "args": "none" }]
+  },
+  "env": {
+    "jest": true
+  }
+}

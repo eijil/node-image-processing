@@ -1,0 +1,16 @@
+{
+    "editor.tabSize": 2,
+    "files.autoSave": "off",
+    "search.followSymlinks": false,
+    "eslint.alwaysShowStatus": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": "explicit",
+        "source.fixAll.stylelint": "explicit"
+    },
+    "eslint.validate": [
+        "javascript",
+        "javascriptreact",
+        "typescript",
+        "typescriptreact"
+    ]
+}
