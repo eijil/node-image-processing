@@ -1,6 +1,7 @@
 {
   "name": "node-image-processing",
   "version": "1.0.0",
+  "keywords": ["nodejs image processing","tinypng","sharp", "oss", "compress image","nodejs tinypng"],
   "description": "Nodejs server for image process and upload to Oss",
   "private": true,
   "dependencies": {
